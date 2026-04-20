@@ -110,27 +110,27 @@ npm start
 ---
 
 ### 🏠 Inicio
-![Inicio](evidencia/inicio.png)
+![Inicio](Trabajo 19 Frontend/supermercado-spa/evidencia/inicio.png)
 
 ---
 
 ### 🛒 Productos
-![Productos](evidencia/Productos.png)
+![Productos](Trabajo 19 Frontend/supermercado-spa/evidencia/Productos.png)
 
 ---
 
 ### 👤 Usuarios
-![Usuarios](evidencia/Usuario.png)
+![Usuarios](Trabajo 19 Frontend/supermercado-spa/evidencia/Usuario.png)
 
 ---
 
 ### 🏢 Proveedores
-![Proveedores](evidencia/Proveedores.png)
+![Proveedores](Trabajo 19 Frontend/supermercado-spa/evidencia/Proveedores.png)
 
 ---
 
 ### 🧾 Ventas
-![Ventas](evidencia/Ventas.png)
+![Ventas](Trabajo 19 Frontend/supermercado-spa/evidencia/Ventas.png)
 
 
 
